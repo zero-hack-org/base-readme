@@ -24,6 +24,6 @@
 
 - Discuss code changes of the Ballerina project via [yuya-morimoto@zero-hack.jp](yuya-morimoto@zero-hack.jp).
 
-### Lisence
+### License
 
 This project is licensed under the {License type} License, see the [LICENSE](./LICENSE) file for details
