@@ -22,7 +22,7 @@
 
 ### Useful links
 
-- Discuss code changes of the Ballerina project via [yuya-morimoto@zero-hack.jp](yuya-morimoto@zero-hack.jp).
+- Discuss code changes of project via [yuya-morimoto@zero-hack.jp](yuya-morimoto@zero-hack.jp).
 
 ### License
 
